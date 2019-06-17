@@ -7,4 +7,5 @@
 建议单个下载，不要直接下载库。<br/>
 我已经上传49款杀毒软件报毒情况（极有可能是误报毒）<br/>
 杀毒平台（在线）virscan.org<br/>
-截图方法：F12，ctrl+Shift+p,>screenshot(full size)
+截图方法：F12，ctrl+Shift+p,>screenshot(full size)<br/>
+至于报毒少了，这个很玄学，真的，脱壳删字就减少3个报毒，再upx加壳又少2个报毒，真神奇。。。
