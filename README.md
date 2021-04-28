@@ -8,5 +8,4 @@
 我已经上传49款杀毒软件报毒情况（极有可能是误报毒）<br/>
 杀毒平台（在线）virscan.org<br/>
 截图方法：F12，ctrl+Shift+p,>screenshot(full size)<br/>
-至于报毒少了，这个很玄学，真的，脱壳删字就减少4个报毒（会不会这个upx壳有问题？），再upx加壳又少2个报毒，真神奇。。。<hr/>
-已经发布了的版本在这里（当然也可以从库里下）》https://github.com/nwdxlgzs/asar-manager/releases
+至于报毒少了，这个很玄学，真的，脱壳删字就减少4个报毒（会不会这个upx壳有问题？），再upx加壳又少2个报毒，真神奇。。。
